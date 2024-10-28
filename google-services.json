@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "589553011201",
+    "project_id": "diplomski-rad-b0131",
+    "storage_bucket": "diplomski-rad-b0131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589553011201:android:82e8592b9c8a10262a0e00",
+        "android_client_info": {
+          "package_name": "com.example.diplomski_rad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589553011201-b5jl22bf984mcug1k0kfaqeopjnfifei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diplomski_rad",
+            "certificate_hash": "75587734ef14d8a845d09b22af443137b1f17d37"
+          }
+        },
+        {
+          "client_id": "589553011201-3d29hi1ohng0abld5pi6iapdtfb305i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5sPa0PUG2uhXANHcZrB72P5ZbAC-uN0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589553011201-3d29hi1ohng0abld5pi6iapdtfb305i0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589553011201-7m3hd8t4fqdd37dckhpprq1iu83g5dge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diplomskiRad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
