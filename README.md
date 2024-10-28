@@ -1,16 +1,6 @@
-# diplomski_rad
+This thesis project was implemented using the Flutter framework, with Firebase as the database.
 
-Diplomski rad
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This thesis describes the development of a mobile application for professors and associates at the Faculty of Engineering in Kragujevac, designed to simplify classroom reservation. 
+The functionalities include a login system, filtering by building and classroom type, viewing already reserved slots, as well as the option to cancel reservations. 
+This application improves the organization of teaching spaces and the efficient use of faculty resources. 
+The ultimate goal is to reduce administrative workload and enhance the user experience.
